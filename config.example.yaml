@@ -1,0 +1,6 @@
+pxier_base_url: "http://localhost"
+each_fetch_num: 500
+max_concurrency: 500
+check_connection_url: "https://baidu.com"
+write_db: "root:root@tcp(127.0.0.1:3306)/test?charset=utf8mb4&parseTime=True&loc=Local"
+max_err: 3
